@@ -78,4 +78,5 @@ $ cat focus.txt
 
 ## 🔗 Conecte-se
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D%C3%A1rley_Raffael-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A1rley-raffael/)
 [![GitHub pessoal](https://img.shields.io/badge/GitHub_pessoal-darley--raffael-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/darley-raffael)
