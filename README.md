@@ -37,6 +37,7 @@
 ### 🎯 No dia a dia
 
 - **Serviços de seguros**: APIs e sistemas de negócio em ambiente corporativo
+- **Node.js** e **NestJS** no desenvolvimento back-end
 - **Microsserviços** e **monólito modular**
 - **Clean Architecture** e **DDD**
 - **Agentes de IA**: criação e integração de IA em soluções da empresa
@@ -50,7 +51,6 @@
 
 - **Go** para serviços e CLIs
 - **.NET** e o ecossistema C#
-- **NestJS** e arquitetura de software
 - Arquiteturas orientadas a agentes de IA
 
 </td>
